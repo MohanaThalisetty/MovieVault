@@ -1,6 +1,6 @@
 # 🎬 MovieVault  
 
-A React-based **Movie Explorer App** built at **Error Makes Clever** 🚀.  
+A React-based **Movie Explorer App**.  
 MovieVault integrates with the **TMDB API** to provide real-time movie data, along with features like search, pagination, and wishlist management — all wrapped in a responsive UI.  
 
 ---
@@ -28,3 +28,4 @@ It helped me strengthen my understanding of building scalable, interactive apps 
 - **Frontend:** React, JavaScript, TailwindCSS  
 - **API:** TMDB API  
 - **State Management:** React Hooks (`useState`, `useEffect`, `useContext`
+
